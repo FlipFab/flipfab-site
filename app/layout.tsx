@@ -1,6 +1,6 @@
 import "./globals.css"
-import Navbar from "@/components/Navbar"
-import ForYouSidebar from "@/components/ForYouSidebar"
+import Navbar from "../components/Navbar"
+import ForYouSidebar from "../components/ForYouSidebar"
 
 export const metadata = {
   title: "FlipFab",
